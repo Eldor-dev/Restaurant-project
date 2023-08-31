@@ -139,6 +139,9 @@
   .app__wrapper_img img {
     width: 100%;
   }
+  .app__wrapper_info {
+    margin-top: 3rem;
+  }
 }
 
 @media screen and (max-width: 850px) {
